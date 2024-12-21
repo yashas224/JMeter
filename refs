@@ -4,7 +4,7 @@ https://jmeter.apache.org/index.html
 https://help.blazemeter.com/docs/guide/recorders-blazemeter-chrome-extension.html
 The BlazeMeter Chrome extension records all HTTP/S requests that your browser sends while you interact with your web application. 
 From the recording, it creates a JMeter or Selenium script and uploads it to BlazeMeter, where you can browse scripts and execute them with a single click.
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Using the BlazeMeter extension means you can run JMeter and Selenium scripts without even having these tools installed! 
 No need to install JMeter or Selenium to record or run a performance test, the BlazeMeter Chrome extension creates the script on its own.
 
@@ -17,3 +17,9 @@ Blazemeter records HTTPS interactions on chrome , creates a .jmx script file whi
 
 
 https://blazedemo.com/ to test 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Thread group
+https://jmeter.apache.org/usermanual/component_reference.html#Thread_Group
+
+Thread group represents pool of users, used to control number of users simukated  (number of threads)
