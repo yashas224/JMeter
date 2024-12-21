@@ -12,3 +12,5 @@ Running Your JMeter and Selenium Script Locally
 
 Alternatively, if you have JMeter installed, you can always convert your recording into a JMeter JMX file or Taurus YAML file,
 then edit or run it via your browser or on your local computer.
+
+Blazemeter records HTTPS interactions on chrome , creates a .jmx script file which can be imported on JMeter GUI and run.
