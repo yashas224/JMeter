@@ -4,3 +4,11 @@ https://jmeter.apache.org/index.html
 https://help.blazemeter.com/docs/guide/recorders-blazemeter-chrome-extension.html
 The BlazeMeter Chrome extension records all HTTP/S requests that your browser sends while you interact with your web application. 
 From the recording, it creates a JMeter or Selenium script and uploads it to BlazeMeter, where you can browse scripts and execute them with a single click.
+
+Using the BlazeMeter extension means you can run JMeter and Selenium scripts without even having these tools installed! 
+No need to install JMeter or Selenium to record or run a performance test, the BlazeMeter Chrome extension creates the script on its own.
+
+Running Your JMeter and Selenium Script Locally
+
+Alternatively, if you have JMeter installed, you can always convert your recording into a JMeter JMX file or Taurus YAML file,
+then edit or run it via your browser or on your local computer.
