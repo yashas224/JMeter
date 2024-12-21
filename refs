@@ -2,3 +2,5 @@ https://jmeter.apache.org/index.html
 
 // recording  on chrome using blazemeter plugin
 https://help.blazemeter.com/docs/guide/recorders-blazemeter-chrome-extension.html
+The BlazeMeter Chrome extension records all HTTP/S requests that your browser sends while you interact with your web application. 
+From the recording, it creates a JMeter or Selenium script and uploads it to BlazeMeter, where you can browse scripts and execute them with a single click.
