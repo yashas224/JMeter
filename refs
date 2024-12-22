@@ -23,3 +23,14 @@ Thread group
 https://jmeter.apache.org/usermanual/component_reference.html#Thread_Group
 
 Thread group represents pool of users, used to control number of users simukated  (number of threads)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Listeners
+https://jmeter.apache.org/usermanual/component_reference.html#listeners
+
+Used to analyse the outcome of the performed performance test.
+important ones , ex- Aggregate Report , View Results Tree or Response Time Graph
+Idea is to view respopnse time, percentiles, and analyse the load test performed.
+
+https://www.perfmatrix.com/jmeter-graph-results/#:~:text=In%20JMeter%2C%20Graph%20Results%20Listener,time%20(Deviation)%20and%20no.
